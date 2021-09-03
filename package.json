@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smartnav/fcm-notification.git"
+    "url": "git+https://github.com/diavrank/fcm-notification.git"
   },
   "keywords": [
     "fcm",
@@ -25,12 +25,12 @@
     "subcribe topic",
     "parallel send"
   ],
-  "author": "Navish Kumar",
+  "author": "Iván Cabrera",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/smartnav/fcm-notification/issues"
+    "url": "https://github.com/diavrank/fcm-notification/issues"
   },
-  "homepage": "https://github.com/smartnav/fcm-notification",
+  "homepage": "https://github.com/diavrank/fcm-notification",
   "dependencies": {
     "firebase-admin": "9.3.0"
   }
