@@ -1,6 +1,6 @@
 {
   "name": "@diavrank/fcm-notification",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Push notificaton for ios and android with nodejs",
   "main": "index.js",
   "repository": {
