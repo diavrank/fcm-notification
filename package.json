@@ -1,6 +1,6 @@
 {
-  "name": "fcm-notification",
-  "version": "2.0.0",
+  "name": "@diavrank/fcm-notification",
+  "version": "2.1.0",
   "description": "Push notificaton for ios and android with nodejs",
   "main": "index.js",
   "repository": {
@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/smartnav/fcm-notification",
   "dependencies": {
-    "firebase-admin": "^5.11.0"
+    "firebase-admin": "9.3.0"
   }
 }
